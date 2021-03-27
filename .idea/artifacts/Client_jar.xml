@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="Client:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Client_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Client.jar">
+        <element id="module-output" name="Client" />
+        <element id="module-output" name="Common" />
+      </element>
+      <element id="directory" name="textures">
+        <element id="dir-copy" path="$PROJECT_DIR$/Client/textures" />
+      </element>
+    </root>
+  </artifact>
+</component>
